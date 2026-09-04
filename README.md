@@ -26,7 +26,7 @@ A `GROUNDING.md` is the missing context layer that closes that gap. It is distin
 | `SKILL.md` | technique library | reusable, method-scoped | "to build an FDR filter, follow these steps" |
 | `GROUNDING.md` | grounding spec | invariant, field-scoped | "any FDR filter must satisfy these invariants" |
 
-Each layer is more stable, authoritative, and general than the one below it. Because its authority derives from **domain-community consensus on validity** rather than individual user intent, a properly loaded `GROUNDING.md` is intended to take precedence over the lower layers when conflicts arise.
+Each layer is more stable, authoritative, and general than the one above it. Because its authority derives from **domain-community consensus on validity** rather than individual user intent, a properly loaded `GROUNDING.md` is intended to take precedence over the higher layers when conflicts arise.
 
 It encodes two kinds of content:
 
