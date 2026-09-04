@@ -97,7 +97,7 @@ We enthusiastically welcome participation regardless of experience level — inc
 
 ## ✏️ Citation
 
-If you use this repository or the associated research, please cite the preprint:
+If you use this repository or the associated research, please cite the paper:
 
 ```bibtex
 @article{palmblad2026agentic,
